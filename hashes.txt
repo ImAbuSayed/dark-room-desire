@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dark Room Desire
+
+This log tracks the cryptographic history and versioning for the song **Dark Room Desire** (dark-room-desire).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T20:29:26.625209 | `v1` | `4d4abf5a1c9837c7fb8d992d4f2b0062467f19f7e20f5e9dfe6c1a9446a3a033` | `34cf55f278ebc71c6f4779802a9677ce5e6dec1f3ccc9397fd254452da2f752b` | `2026-05-18_dark-room-desire-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
