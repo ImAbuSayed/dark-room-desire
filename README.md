@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Main takda haan teri raah, umeed jagaunda haan
+> Tu nazraan milaven, main hosh gwaunda haan
+> Girl you stepping in the light, I'm losing my mind
+> Ni main aashiq tera, baki duniya ton blind
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
